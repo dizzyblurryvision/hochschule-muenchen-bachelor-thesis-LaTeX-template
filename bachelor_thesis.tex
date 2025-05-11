@@ -1,0 +1,47 @@
+\documentclass[11pt]{scrreprt}
+
+% Settings:
+\input{settings} 
+
+\begin{document}
+	
+	%----------------------------------------------------------------------------------------
+	%	Intro
+	%----------------------------------------------------------------------------------------
+	
+    \input{pages/titlepage}
+	\newpage  % Rückseite der Titelseite bleibt leer
+
+    \input{pages/abstract}
+
+	\tableofcontents % Inhaltsverzeichnis
+	
+	%----------------------------------------------------------------------------------------
+	%	Inhalt
+	%----------------------------------------------------------------------------------------
+    
+    \clearpage
+    \input{chapters/00_examples}
+
+    \clearpage
+    \input{chapters/01_Einleitung}
+
+    %----------------------------------------------------------------------------------------
+    %	Anhang
+    %----------------------------------------------------------------------------------------
+
+    \printbibliography
+
+    \clearpage
+    \listoffigures
+    
+    \clearpage
+    \listoftables
+    
+    \clearpage
+    \input{pages/acronyms}
+    
+    \clearpage
+    \input{pages/declaration}
+
+\end{document}
