@@ -33,4 +33,4 @@ Diese Vorlage ist frei nutzbar für Studierende der Hochschule München. Anpassu
 
 **⚠️ Hinweis**
 
-Die ursprüngliche Basis dieses Templates wurde von Prof. Dr. Florian Nafz (Hochschule München) bereitgestellt und im Rahmen dieser Arbeit angepasst und erweitert.
+Die ursprüngliche Basis dieses Templates wurde von Prof. Dr. Florian Nafz (Hochschule München) bereitgestellt und im Rahmen meiner Bachelorarbeit angepasst und erweitert.
